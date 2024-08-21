@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chintu Gurbani</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 20 Jul 2024 14:12:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/07/cropped-Chess-Audiobooks-2-32x32.png</url>
+	<title>Chintu Gurbani</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Supertrend + RSI Trading Strategy</title>
+		<link>/supertrend-rsi-trading-strategy/</link>
+					<comments>/supertrend-rsi-trading-strategy/#respond</comments>
+		
+		<dc:creator><![CDATA[chintu.gurbani@gmail.com]]></dc:creator>
+		<pubDate>Thu, 18 Jul 2024 19:53:28 +0000</pubDate>
+				<category><![CDATA[Amibroker]]></category>
+		<category><![CDATA[RSI]]></category>
+		<category><![CDATA[Supertrend]]></category>
+		<guid isPermaLink="false">/?p=314</guid>
+
+					<description><![CDATA[_SECTION_BEGIN(&#8221; ST PRICE&#8221;);SetChartBkColor( ParamColor(&#8220;Chart Color&#8221;, colorWhite));SetChartOptions(0, chartShowArrows &#124; chartShowDates);SetChartOptions(0,chartShowArrows&#124;chartShowDates);_N(Title = StrFormat(&#8220;{{NAME}} &#8211; {{INTERVAL}} {{DATE}} Open %g, Hi %g, Lo %g, Close %g (%.1f%%) Vol &#8221; +WriteVal( V, 1.0 ) +&#8221; {{VALUES}}&#8221;, O, H, L, C, SelectedValue( ROC( C, 1 )) ));SetChartBkGradientFill(ParamColor(&#8220;Top&#8221;, colorTeal), ParamColor(&#8220;Bottom&#8221;, colorLightGrey), ParamColor(&#8220;Title&#8221;, colorRed));SetChartBkColor(colorTeal);SetChartOptions(0,chartShowArrows &#124; chartShowDates);_SECTION_BEGIN(&#8220;Magnified Market Price&#8221;);FS=Param(&#8220;Font Size&#8221;,30,30,100,1); GfxSelectFont(&#8220;Arial&#8221;, FS, 900, italic [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="314" class="elementor elementor-314">
+				<div class="elementor-element elementor-element-6f91bdd e-flex e-con-boxed e-con e-parent" data-id="6f91bdd" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7e76aac elementor-widget elementor-widget-image" data-id="7e76aac" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 15-07-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>										<img fetchpriority="high" decoding="async" width="680" height="373" src="/wp-content/uploads/2024/07/Screenshot-2024-07-19-012154.jpg" class="attachment-large size-large wp-image-315" alt="" srcset="/wp-content/uploads/2024/07/Screenshot-2024-07-19-012154.jpg 726w, /wp-content/uploads/2024/07/Screenshot-2024-07-19-012154-300x164.jpg 300w" sizes="(max-width: 680px) 100vw, 680px" />													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-34d7ccc e-flex e-con-boxed e-con e-parent" data-id="34d7ccc" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-72ac2fe8 elementor-widget elementor-widget-text-editor" data-id="72ac2fe8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 15-07-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				
+<p>_SECTION_BEGIN(&#8221; ST PRICE&#8221;);<br>SetChartBkColor( ParamColor(&#8220;Chart Color&#8221;, colorWhite));<br>SetChartOptions(0, chartShowArrows | chartShowDates);<br>SetChartOptions(0,chartShowArrows|chartShowDates);<br>_N(Title = StrFormat(&#8220;{{NAME}} &#8211; {{INTERVAL}} {{DATE}} Open %g, Hi %g, Lo %g, Close %g (%.1f%%) Vol &#8221; +WriteVal( V, 1.0 ) +&#8221; {{VALUES}}&#8221;, O, H, L, C, SelectedValue( ROC( C, 1 )) ));<br>SetChartBkGradientFill(ParamColor(&#8220;Top&#8221;, colorTeal), ParamColor(&#8220;Bottom&#8221;, colorLightGrey), ParamColor(&#8220;Title&#8221;, colorRed));<br>SetChartBkColor(colorTeal);<br>SetChartOptions(0,chartShowArrows | chartShowDates);<br>_SECTION_BEGIN(&#8220;Magnified Market Price&#8221;);<br>FS=Param(&#8220;Font Size&#8221;,30,30,100,1); GfxSelectFont(&#8220;Arial&#8221;, FS, 900, italic = False, underline = False, True );<br>GfxSetBkMode( colorWhite ); GfxSetTextColor( ParamColor(&#8220;Color&#8221;,colorYellow) );<br>Hor=Param(&#8220;Horizontal Position&#8221;,800,800,800,800);<br>Hor=Param(&#8220;Horizontal Position&#8221;,20,20,500,20);<br>Ver=Param(&#8220;Vertical Position&#8221;,50,50,250,50);<br>GfxTextOut(&#8220;&#8221;+C,Hor , Ver );<br>YC=TimeFrameGetPrice(&#8220;C&#8221;,inDaily,-1);<br>DD=Prec(C-YC,2); xx=Prec((DD/YC)*100,2);<br>GfxSelectFont(&#8220;Arial&#8221;, 12, 700, italic = False, underline = False, True );<br>GfxSetBkMode( colorWhite );<br>GfxSetTextColor(ParamColor(&#8220;Color&#8221;,colorYellow) );<br>GfxTextOut(&#8220;&#8221;+DD+&#8221; (&#8220;+xx+&#8221;%)&#8221;, Hor+5, Ver+45 );<br>_SECTION_END();</p>
+
+
+
+<p>_SECTION_BEGIN(&#8220;HAPPY TREND&#8221;);<br>SetBarsRequired(1000000, 1000000);<br>SetChartOptions(2,chartShowArrows|chartShowDates);<br>SetTradeDelays(0,0,0,0);<br>period = Param(&#8220;Period&#8221;, 4, 1, 240, 1);<br>mult = Param(&#8220;Multiplier&#8221;, 2, 1, 240, 0.1);<br>showPrice = ParamToggle(&#8220;Show Price&#8221;,&#8221;No|yes&#8221;,1);<br>showArrows = ParamToggle(&#8220;Show Arrows&#8221;,&#8221;No|yes&#8221;,1);<br>showRibbon = ParamToggle(&#8220;Show Ribbon&#8221;,&#8221;No|yes&#8221;,1);<br>f=ATR(period);<br>VS[0] = Close[0];<br>trend[0] = 0;<br>HighC[0]=0;<br>Lowc[0]=0;<br>for( i = period+1; i &lt; BarCount; i++ ) { vs[i] = vs[i-1]; trend[i] = trend[i-1]; highC[i] = HighC[i-1]; lowc[i] = lowc[i-1]; if ((trend[i]&gt;=0) &amp;&amp; ( C[i] VS[i]))<br>{<br>trend[i]=1;<br>HighC[i] = C[i];<br>lowc[i] = C[i];<br>}<br>if (trend[i]==-1)<br>{<br>if (C[i]&lt;lowc[i]) lowc[i] = C[i];<br>VS[i]= lowc[i]+ (mult<em>f[i]); } if (trend[i]==1) { if (C[i]&gt;HighC[i]) HighC[i] = C[i]; VS[i]= HighC[i]-(mult</em>f[i]);<br>}<br>}<br>Buy1=Cross(Trend,0);<br>Sell1=Cross(0, Trend);</p>
+
+
+
+<p>if (ShowPrice) Plot(Close,&#8221;Close&#8221;,colorGrey40,styleCandle);<br>Plot(VS, &#8220;Vol Stop&#8221;,IIf(trend==1,10,11 ),styleThick);<br>mkol = IIf( Trend==1, 10, 11);<br>if (ShowRibbon) Plot(5, &#8220;ribbon&#8221;, mkol, styleOwnScale|styleArea|styleNoLabel|styleNoTitle, 0, -5);<br>_SECTION_END();<br>SetChartBkColor( ParamColor( &#8220;Outer panel&#8221;,colorWhite) );<br>_SECTION_BEGIN(&#8220;PRICE&#8221;);<br>SetChartOptions(0,chartShowArrows|chartShowDates);</p>
+
+
+
+<p>Plot( C, &#8220;CLOSE&#8221;, ParamColor(&#8220;COLOR&#8221;, colorDefault ), styleNoTitle | ParamStyle(&#8220;STYLE&#8221;) | GetPriceStyle() );<br>_SECTION_END();</p>
+
+
+
+<p>A = RSI(14) &gt; EMA(RSI(14), 14);<br>B = RSI(14) &lt; EMA(RSI(14), 14);</p>
+
+
+
+<p>Buy = Buy1 AND A;<br>Sell = Sell1 AND B;<br>Buy = ExRem(Buy, Sell);<br>Sell = ExRem(Sell, Buy);<br>shape = Buy * shapeUpArrow + Sell * shapeDownArrow;<br>PlotShapes(shape, IIf(Buy,colorBlue,colorRed), 0, IIf(Buy,Low,High));<br>dist = ATR(20);<br>for (i=0; i&lt;BarCount; i++) {<br>if ( Buy[i] )<br>PlotText(&#8220;Buy:&#8221; + O[ i ], i, L[ i ]-3<em>dist[i], colorBlue); if ( Sell[i] ) PlotText(&#8220;Sell:&#8221; + O[ i ], i, H[ i ]+3</em>dist[i], colorRed);;<br>}</p>
+
+
+
+<p>_SECTION_END();</p>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/supertrend-rsi-trading-strategy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
